@@ -1,0 +1,2 @@
+../Core/Src/FSM_manual.c:8:6:init_manual	4	static
+../Core/Src/FSM_manual.c:12:6:manual_run	8	static

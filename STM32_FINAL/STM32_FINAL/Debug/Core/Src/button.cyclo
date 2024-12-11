@@ -1,0 +1,6 @@
+../Core/Src/button.c:17:6:pressProcess	1
+../Core/Src/button.c:23:6:holdProcess	1
+../Core/Src/button.c:29:6:normalProcess	1
+../Core/Src/button.c:35:7:buttonReading	27
+../Core/Src/button.c:127:6:isButtonPressed	2
+../Core/Src/button.c:134:6:isButtonHold	2
